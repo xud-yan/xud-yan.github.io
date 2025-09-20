@@ -14,8 +14,8 @@ My research interests focus on the application of vision-language models (VLM) i
 
 ## News
 
-- **[Sept. 2025]** Our paper about compositional zero-shot learning is accepted to NeurIPS 2025!
-- **[Sept. 2025]** Our paper about compositional zero-shot learning is submitted to ICLR 2026.
+- **[Sep. 2025]** Our paper about compositional zero-shot learning is accepted to NeurIPS 2025!
+- **[Sep. 2025]** Our paper about compositional zero-shot learning is submitted to ICLR 2026.
 - **[Jul. 2025]** Our paper about few-shot class-incremental learning is submitted to AAAI 2026.
 - **[May. 2025]** Our paper about compositional zero-shot learning is submitted to NeurIPS 2025.
 - **[Apr. 2025]** Our paper about compositional zero-shot learning is accepted to IJCAI 2025!
@@ -28,8 +28,8 @@ My research interests focus on the application of vision-language models (VLM) i
 ## Teaching
 
 - **[Fall 2025]**  Teaching Assistant, C Programming.
-- **[Fall 2025]**  Teaching Assistant, C Programming.
+- **[Fall 2024]**  Teaching Assistant, C Programming.
  
 ## Honors and Awards
 
-- **[June 2023]**  Excellent Post Graduate Student of Shandong Province, Government of Shandong province.
+- **[Jun. 2023]**  **Excellent Graduate of Shandong Province**, Government of Shandong province.
