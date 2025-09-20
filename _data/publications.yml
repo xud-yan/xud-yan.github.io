@@ -3,7 +3,7 @@ main:
     authors: <strong>Xudong Yan</strong>, Songhe Feng*.
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # pdf: 
     code: https://github.com/xud-yan/TOMCAT
     notes: Early Accept
     image: ./assets/img/2025_NeurIPS_TOMCAT.png
@@ -12,9 +12,9 @@ main:
     authors: <strong>Xudong Yan</strong>, Songhe Feng*, Yang Zhang, Jian Yang, Yueguan Lin, Haojun Fei.
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
-    Paper: https://www.ijcai.org/proceedings/2025/0243.pdf
+    paper: https://www.ijcai.org/proceedings/2025/0243.pdf
     arXiv: https://arxiv.org/abs/2411.12584
-    Code: https://github.com/xud-yan/Trident
+    code: https://github.com/xud-yan/Trident
     image: ./assets/img/2025_IJCAI_Trident.png
 
 
