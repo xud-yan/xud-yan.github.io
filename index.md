@@ -25,4 +25,4 @@ If you are interested in our works or would like to explore potential collaborat
 
 {% include_relative _includes/publications.md %}
 
-# {% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
