@@ -2,11 +2,11 @@ main:
 
   - title: Leveraging MLLM Embeddings and Attribute Smoothing for Compositional Zero-Shot Learning
     authors: <strong>Xudong Yan</strong>, Songhe Feng, Yang Zhang, Jian Yang, Yueguan Lin, Haojun Fei.
-    conference_short: IJCAI 2025
+    conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
-    pdf: https://www.ijcai.org/proceedings/2025/0243.pdf
+    Paper: https://www.ijcai.org/proceedings/2025/0243.pdf
     arXiv: https://arxiv.org/abs/2411.12584
-    code: https://github.com/xud-yan/Trident
+    Code: https://github.com/xud-yan/Trident
     image: ./assets/img/teaser_example_2.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
