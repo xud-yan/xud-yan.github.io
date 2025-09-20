@@ -1,22 +1,20 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+  - title: TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning
+    authors: <strong>Xudong Yan</strong>, Songhe Feng*.
+    conference_short: NeurIPS 2025
+    conference: Conference on Neural Information Processing Systems <strong>(NIPS)</strong>, 2025.
+    # pdf: https://arxiv.org/abs/2411.12584
+    code: https://github.com/xud-yan/TOMCAT
+    # image: ./assets/img/teaser_example_2.png
+    place: San Diego, December 2 - December 7, 2025
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Leveraging MLLM Embeddings and Attribute Smoothing for Compositional Zero-Shot Learning
+    authors: <strong>Xudong Yan</strong>, Songhe Feng*, Yang Zhang, Jian Yang, Yueguan Lin, Haojun Fei.
+    conference_short: IJCAI 2025
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2411.12584
+    code: https://github.com/xud-yan/Trident
+    # image: ./assets/img/teaser_example_2.png
+    place: Guangzhou, China, August 29 - August 31, 2025
