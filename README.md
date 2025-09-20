@@ -1,1 +1,1 @@
-The academic homepage of Xudong Yan.
+The academic personal homepage of Xudong Yan.
