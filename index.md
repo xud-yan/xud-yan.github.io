@@ -24,3 +24,12 @@ My research interests focus on the application of vision-language models (VLM) i
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Teaching
+
+- **[Fall 2025]**  Teaching Assistant, C Programming.
+- **[Fall 2025]**  Teaching Assistant, C Programming.
+ 
+## Honors and Awards
+
+- **[June 2023]**  Excellent Post Graduate Student of Shandong Province, Government of Shandong province.
