@@ -22,7 +22,7 @@ My research interests focus on the application of vision-language models (VLM) i
 - **[Jan. 2025]** Our paper about compositional zero-shot learning is submitted to IJCAI 2025.
 
 
-
+{% include_relative _includes/publications.md %}
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Teaching
