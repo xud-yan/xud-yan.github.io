@@ -14,10 +14,9 @@ My research interests focus on the application of vision-language models (VLM) i
 
 ## News
 
-- **[Nov. 2025]** Our paper about few-shot learning is submitted to TCSVT.
+- **[Dec. 2025]** Our paper about compositional zero-shot learning is submitted to CVPR 2026.
 - **[Oct. 2025]** Our paper about multimodal knowledge extraction is submitted to WWW 2026.
 - **[Sep. 2025]** Our paper about compositional zero-shot learning is accepted to NeurIPS 2025!
-- **[Sep. 2025]** Our paper about compositional zero-shot learning is submitted to ICLR 2026.
 - **[Apr. 2025]** Our paper about compositional zero-shot learning is accepted to IJCAI 2025!
 
 
