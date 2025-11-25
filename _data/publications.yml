@@ -4,8 +4,8 @@ main:
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     paper: https://neurips.cc/virtual/2025/poster/117606
+    arXiv: https://arxiv.org/abs/2510.20162
     code: https://github.com/xud-yan/TOMCAT
-    notes: Early Accept
     image: ./assets/img/2025_NeurIPS_TOMCAT.png
 
   - title: "Leveraging MLLM Embeddings and Attribute Smoothing for Compositional Zero-Shot Learning"
