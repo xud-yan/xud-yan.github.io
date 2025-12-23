@@ -1,10 +1,12 @@
 main:
   -title: "WARM-CAT: Warm-Started Test-Time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning"
     authors: <strong>Xudong Yan</strong>, Songhe Feng*, Jiaxin Wang, Xin Su, Yi Jin.
-    conference_short: Submitted to TPAMI
+    # conference_short: Submitted to TPAMI
     conference: Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>.
+    # paper: https://www.ijcai.org/proceedings/2025/243
+    # arXiv: https://arxiv.org/abs/2411.12584
     code: https://github.com/xud-yan/WARM-CAT
-    image: ./assets/img/2025_TPAMI_WARMCAT_Submitted
+    image: ./assets/img/2025_TPAMI_WARMCAT_Submitted.png
     
   - title: "TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning"
     authors: <strong>Xudong Yan</strong>, Songhe Feng*.
