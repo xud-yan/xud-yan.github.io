@@ -14,7 +14,7 @@ My research interests focus on the application of vision-language models (VLM) i
 
 ## News
 
-
+- **[Jun. 2026]** I am honored to receive the international exchange fellowship from [BJTU](http://intl.bjtu.edu.cn/). I will be visiting the [University of Trento](https://mhug.disi.unitn.it/) (Sept. – Nov. 2026), working under the supervision of Prof. [Massimiliano Mancini](https://mancinimassimiliano.github.io/).
 - **[May. 2026]** Our paper about compositional zero-shot learning is submitted to IJCV.
 - **[May. 2026]** Our paper about few-shot class-incremental learning is accepted to Neural Network!
 - **[Mar. 2026]** Our paper about compositional zero-shot learning is submitted to ECCV 2026.
