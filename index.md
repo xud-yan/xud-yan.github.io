@@ -27,7 +27,11 @@ My research interests focus on the application of vision-language models (VLM) i
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
 
+## Experience
 
+- **[Sep. 2025 - Now]**  Ph.D Student, Beijing Jiaotong University, supervised by Prof. [Songhe Feng](https://faculty.bjtu.edu.cn/8407/)
+- **[Sep. 2023 - Jun. 2025]**  Graduate Student, Beijing Jiaotong University, supervised by Prof. [Songhe Feng](https://faculty.bjtu.edu.cn/8407/)
+- **[Sep. 2019 - Jun. 2023]**  B.E. in Software Engineering, Qingdao University, supervised by Prof.Peijian Zhang.
 
 ## Teaching
 
