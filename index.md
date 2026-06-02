@@ -14,6 +14,7 @@ My research interests focus on the application of vision-language models (VLM) i
 
 ## News
 
+
 - **[May. 2026]** Our paper about compositional zero-shot learning is submitted to IJCV.
 - **[May. 2026]** Our paper about few-shot class-incremental learning is accepted to Neural Network!
 - **[Mar. 2026]** Our paper about compositional zero-shot learning is submitted to ECCV 2026.
