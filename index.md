@@ -14,11 +14,11 @@ My research interests focus on the application of vision-language models (VLM) i
 
 ## News
 
+- **[Jul. 2026]** Our paper about multimodal information extraction is submitted to AAAI.
+- **[Jun. 2026]** Our paper about compositional zero-shot learning is submitted to IEEE TIP.
 - **[Jun. 2026]** I am honored to receive the international exchange fellowship from [BJTU](http://intl.bjtu.edu.cn/). I will be visiting the [University of Trento](https://mhug.disi.unitn.it/) (Sept. – Nov. 2026), working under the supervision of Prof. [Massimiliano Mancini](https://mancinimassimiliano.github.io/).
 - **[May. 2026]** Our paper about compositional zero-shot learning is submitted to IJCV.
 - **[May. 2026]** Our paper about few-shot class-incremental learning is accepted to Neural Network!
-- **[Mar. 2026]** Our paper about compositional zero-shot learning is submitted to ECCV 2026.
-- **[Jan. 2026]** Our paper about railway object detection is submitted to Urban Rail Transit.
 - **[Feb. 2026]** Our paper about compositional zero-shot learning is accepted to CVPR 2026!
 - **[Sep. 2025]** Our paper about compositional zero-shot learning is accepted to NeurIPS 2025!
 - **[Apr. 2025]** Our paper about compositional zero-shot learning is accepted to IJCAI 2025!
