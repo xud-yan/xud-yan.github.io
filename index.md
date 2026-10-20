@@ -42,3 +42,4 @@ My research interests focus on the application of vision-language models (VLM) i
 
 - **[Jun. 2023]**  **Excellent Graduate of Shandong Province**, Government of Shandong province.
 - **[Jul. 2025]**  **Graduate Student Innovation Project of the Fundamental Research Funds for the Central Universities.**
+- **[Jun. 2026]** **Global Research Scholarship for Outstanding Students**, Beijing Jiaotong University. Selected to be the visiting Ph.D at the [University of Trento](https://mhug.disi.unitn.it/) (Sept. – Nov. 2026) under the supervision of Prof. [Massimiliano Mancini](https://mancinimassimiliano.github.io/).
