@@ -1,4 +1,10 @@
 main:
+
+  - title: "WARM-CAT: Warm-Started Test-Time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning"
+    authors: <strong>Xudong Yan</strong>, Jiaxin Wang, Xin Su, Songhe Feng*.
+    conference_short: IJCV
+    conference: International Journal of Computer Vision, 2026.
+    image: ./assets/img/2026_IJCV_WARMCAT.png
     
   - title: "TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning"
     authors: <strong>Xudong Yan</strong>, Songhe Feng*.
@@ -23,6 +29,13 @@ main:
     conference_short: CVPR
     conference: IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2026.
     paper: https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Bridging_the_Modality_Gap_in_Compositional_Zero-Shot_Learning_via_Sparse_CVPR_2026_paper.html
-    image: ./assets/img/2025_IJCAI_Trident.png
+    image: ./assets/img/2026_CVPR_SAC.png
+
+  - title: "Learning forward-compatible and domain-invariant representations for cross-domain few-shot class-incremental learning"
+    authors: Weidong Shi, <strong>Xudong Yan</strong>, Jiajun Yuan, Hong Lu, Songhe Feng*.
+    conference_short: NN
+    conference: Neural Networks <strong>(NN)</strong>, October 2026.
+    paper: https://www.sciencedirect.com/science/article/abs/pii/S0893608026005307
+    image: ./assets/img/2026_NN_FCDI.png
 
 
