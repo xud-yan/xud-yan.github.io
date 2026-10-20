@@ -41,3 +41,4 @@ My research interests focus on the application of vision-language models (VLM) i
 ## Honors and Awards
 
 - **[Jun. 2023]**  **Excellent Graduate of Shandong Province**, Government of Shandong province.
+- **[Jul. 2025]**  **Graduate Student Innovation Project of the Fundamental Research Funds for the Central Universities.**
