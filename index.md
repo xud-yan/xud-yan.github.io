@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-👋Hi there! This is Xudong Yan (闫旭东). I am currently a Ph.D. student at Beijing Jiaotong University, supervised by Prof. [Songhe Feng](https://faculty.bjtu.edu.cn/8407/). Before transferring to the doctoral program, I pursued my master's studies at BJTU. Prior to that, I received my B.Eng. degree from Qingdao University.
+👋Hi there! This is Xudong Yan (闫旭东). I am currently a Ph.D. student at Beijing Jiaotong University, supervised by Prof. [Songhe Feng](https://faculty.bjtu.edu.cn/8407/). Before transferring to the doctoral program, I pursued my master's studies at BJTU. Prior to that, I received my B.Eng. degree from Qingdao University. I as also a visiting Ph.D student of [University of Trento](https://mhug.disi.unitn.it/) in 2026.
 
 My research interests focus on the application of vision-language models (VLM) in the real world, including their use in zero-shot and few-shot learning, multimodal retrieval, and test-time adaptation. If you are interested in our works or would like to explore potential collaboration, please feel very free to contact me via [Email](mailto: xud_yan@bjtu.edu.cn) or [WeChat](https://github.com/xud-yan/xud-yan.github.io/blob/main/assets/img/WeChat.png)🙌.
 
@@ -17,7 +17,7 @@ My research interests focus on the application of vision-language models (VLM) i
 - **[Oct. 2026]** Our paper about multimodal information extraction is submitted to WWW.
 - **[Oct. 2026]** Our paper about compositional zero-shot learning is accepted to IJCV!
 - **[Jun. 2026]** Our paper about compositional zero-shot learning is submitted to IEEE TIP.
-- **[Jun. 2026]** I am honored to receive the international exchange fellowship from [BJTU](http://intl.bjtu.edu.cn/). I will be visiting the [University of Trento](https://mhug.disi.unitn.it/) (Sept. – Nov. 2026), working under the supervision of Prof. [Massimiliano Mancini](https://mancinimassimiliano.github.io/).
+- **[Jun. 2026]** I am honored to receive the international exchange fellowship from [BJTU](http://intl.bjtu.edu.cn/). I will be visiting the [University of Trento](https://mhug.disi.unitn.it/) (Sept. – Nov. 2026).
 - **[May. 2026]** Our paper about few-shot class-incremental learning is accepted to Neural Network!
 - **[Feb. 2026]** Our paper about compositional zero-shot learning is accepted to CVPR 2026!
 - **[Sep. 2025]** Our paper about compositional zero-shot learning is accepted to NeurIPS 2025!
@@ -43,3 +43,4 @@ My research interests focus on the application of vision-language models (VLM) i
 - **[Jun. 2023]**  **Excellent Graduate of Shandong Province**, Government of Shandong province.
 - **[Jul. 2025]**  **Graduate Student Innovation Project of the Fundamental Research Funds for the Central Universities.**
 - **[Jun. 2026]** **Global Research Scholarship for Outstanding Students**, Beijing Jiaotong University. Selected to be the visiting Ph.D at the [University of Trento](https://mhug.disi.unitn.it/) (Sept. – Nov. 2026) under the supervision of Prof. [Massimiliano Mancini](https://mancinimassimiliano.github.io/).
+- **[Oct. 2026]** **National Scholarship of China**, Ministry of Education.
