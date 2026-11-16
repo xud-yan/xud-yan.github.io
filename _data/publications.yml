@@ -4,6 +4,9 @@ main:
     authors: <strong>Xudong Yan</strong>, Jiaxin Wang, Xin Su, Songhe Feng*.
     conference_short: IJCV
     conference: International Journal of Computer Vision, 2026.
+    paper: https://link.springer.com/article/10.1007/s11263-026-03108-3
+    arXiv: https://link.springer.com/article/10.1007/s11263-026-03108-3
+    code: https://github.com/xud-yan/WARM-CAT
     image: ./assets/img/2026_IJCV_WARMCAT.png
     
   - title: "TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning"
