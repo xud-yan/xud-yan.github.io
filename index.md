@@ -29,6 +29,7 @@ My research interests focus on the application of vision-language models (VLM) i
 
 ## Experience
 
+- **[Sep. 2026 - Dec. 2026]**  Visiting Ph.D Student, University of Trento, Prof. [Massimiliano Mancini](https://mancinimassimiliano.github.io/).
 - **[Sep. 2025 - Now]**  Ph.D Student, Beijing Jiaotong University, supervised by Prof. [Songhe Feng](https://faculty.bjtu.edu.cn/8407/)
 - **[Sep. 2023 - Jun. 2025]**  Graduate Student, Beijing Jiaotong University, supervised by Prof. [Songhe Feng](https://faculty.bjtu.edu.cn/8407/)
 - **[Sep. 2019 - Jun. 2023]**  B.E. in Software Engineering, Qingdao University, supervised by Prof.Peijian Zhang.
@@ -44,3 +45,5 @@ My research interests focus on the application of vision-language models (VLM) i
 - **[Jul. 2025]**  **Graduate Student Innovation Project of the Fundamental Research Funds for the Central Universities.**
 - **[Jun. 2026]** **Global Research Scholarship for Outstanding Students**, Beijing Jiaotong University. Selected to be the visiting Ph.D at the [University of Trento](https://mhug.disi.unitn.it/) (Sept. – Nov. 2026) under the supervision of Prof. [Massimiliano Mancini](https://mancinimassimiliano.github.io/).
 - **[Oct. 2026]** **National Scholarship of China**, Ministry of Education.
+- **[Nov. 2026]** **[Zhijin Scholarship](https://foundation.bjtu.edu.cn/jzxm/rcpy/202312349.htm)**, Beijing Jiaotong University.
+- **[Nov. 2026]** **Outstanding Social Work Scholarship**, Beijing Jiaotong University.
